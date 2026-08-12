@@ -1,4 +1,4 @@
-# Pertemuan [N]: [Topik Pertemuan]
+# Pertemuan 1 : [Topik Pertemuan]
 
 ## 🎯 Tujuan Pembelajaran
 - Tujuan 1
